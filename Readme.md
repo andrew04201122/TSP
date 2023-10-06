@@ -1,4 +1,4 @@
-## Dynamic Programming: 
+# Dynamic Programming: 
 
 Please use C++/C or python to write a dynamic programming program for travelling salesman problem (TSP)
 
@@ -23,7 +23,15 @@ For output format, you have to print out the shortest path and the cost of going
 For this example, the shortest path is 1, 2, 5, 3, 4, 6, 1, and the cost of most efficient tour = 16. 
 
 
-Other testcase 
+## The way to run this code:
+just run command below:
+
+```
+python TSP.py
+```
+
+
+## Other testcase 
 
 ```
 e1  1  v1 v2
