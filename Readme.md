@@ -6,6 +6,7 @@ For input format, we need to enter a graph. Let’s use the following simple des
 ### comment (if line starts with “#”, then it is a comment)
 ### edgeIndex  edgeWeight  nameOfVertexU  nameOfVertexV
 
+```
 e1  1  v1 v2
 e2  4  v1 v5
 e3  5  v2  v5
@@ -16,7 +17,7 @@ e7  6  v6 v3
 e8  1  v3  v4
 e9  5  v5  v3
 e10 8  v4 v2
-
+```
 
 For output format, you have to print out the shortest path and the cost of going around.
 
