@@ -3,10 +3,9 @@
 Please use C++/C or python to write a dynamic programming program for travelling salesman problem (TSP)
 
 For input format, we need to enter a graph. Let’s use the following simple description:
-### comment (if line starts with “#”, then it is a comment)
-### edgeIndex  edgeWeight  nameOfVertexU  nameOfVertexV
 
 ```
+edgeIndex  edgeWeight  nameOfVertexU  nameOfVertexV
 e1  1  v1 v2
 e2  4  v1 v5
 e3  5  v2  v5
